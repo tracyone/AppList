@@ -18,5 +18,7 @@
 1. 输入法，我选择[搜狗拼音输入法](http://pinyin.sogou.com/mac/)，理由是可用shift切换中英文，当然它的中文输入不会输过自带的中文输入法，而且支持用户登录，全平台同步。
 2. 在线音乐播放器我选择[网易音乐播放器](http://music.163.com/#/download)，全平台同意体验，最重要的是网易音乐的社交互动与智能推荐非常给力，当然也少不了海量的音乐库的支持。
 3. RSS订阅器，我选择[Newsflow](https://itunes.apple.com/cn/app/newsflow-shou-qu-yi-zhi-xin/id890805912?mt=12&uo=4)+[feedly](http://feedly.com)，Newsflow支持和feedly同步，包括订阅网址和阅读状态的同步，Newsflow的一个不足之处添加订阅的时候的无法从网址中识别出rss地址。feedly没有被墙而且现在也支持通过微软的账号来登录，大陆用户可以顺畅地使用feedly的服务。
+4. 编辑器我选择[neovim](https://github.com/neovim/homebrew-neovim/blob/master/README.md)和[macvim](https://github.com/macvim-dev/macvim/releases)，[neovim支持python]()，[macvim中文输入问题]()
+5. 系统美化之壁纸切换。我用[爱壁纸](https://itunes.apple.com/us/app/ai-bi-zhihd/id566809953?ls=1&mt=12)，这是最好的桌面壁纸应用没有之一，之前还买了会员三年仅需要48元，全平台支持，体验一致。
 
 
