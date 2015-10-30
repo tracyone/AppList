@@ -20,5 +20,7 @@
 3. RSS订阅器，我选择[Newsflow](https://itunes.apple.com/cn/app/newsflow-shou-qu-yi-zhi-xin/id890805912?mt=12&uo=4)+[feedly](http://feedly.com)，Newsflow支持和feedly同步，包括订阅网址和阅读状态的同步，Newsflow的一个不足之处添加订阅的时候的无法从网址中识别出rss地址。feedly没有被墙而且现在也支持通过微软的账号来登录，大陆用户可以顺畅地使用feedly的服务。
 4. 编辑器我选择[neovim](https://github.com/neovim/homebrew-neovim/blob/master/README.md)和[macvim](https://github.com/macvim-dev/macvim/releases)，[neovim支持python]()，[macvim中文输入问题]()
 5. 系统美化之壁纸切换。我用[爱壁纸](https://itunes.apple.com/us/app/ai-bi-zhihd/id566809953?ls=1&mt=12)，这是最好的桌面壁纸应用没有之一，之前还买了会员三年仅需要48元，全平台支持，体验一致。
+6. Todo&GTD软件我选择[WounderList](https://itunes.apple.com/app/wunderlist-to-do-list-tasks/id410628904)，全平台同步，支持chrome插件，界面友好，操作简单。
+7. 密码管理我选择**keepass**，[安装方法](https://github.com/tracyone/AppList/InstallGuide.md#keepass)
 
 
