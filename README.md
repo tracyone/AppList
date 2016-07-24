@@ -22,5 +22,6 @@
 5. 系统美化之壁纸切换。我用[爱壁纸](https://itunes.apple.com/us/app/ai-bi-zhihd/id566809953?ls=1&mt=12)，这是最好的桌面壁纸应用没有之一，之前还买了会员三年仅需要48元，全平台支持，体验一致。
 6. Todo&GTD软件我选择[WounderList](https://itunes.apple.com/app/wunderlist-to-do-list-tasks/id410628904)，全平台同步，支持chrome插件，界面友好，操作简单。
 7. 密码管理我选择**keepass**，[安装方法](./InstallGuide.md#keepass)
+8. 按键修改相关选择[karabiner](https://pqrs.org/osx/karabiner/)，[教程]()
 
 
